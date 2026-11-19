@@ -10,4 +10,4 @@ elif unit == "F":
   print(f'Your temperature in celcius is: {temperature}C')
 
 else:
-  print(f'Invalid input')
+  print("Invalid input")
